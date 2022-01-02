@@ -1,0 +1,10 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Mutation_Changes",
+    "name": "Mutation Changes",
+    "description": "What if mutations were more unique? Mutation Changes fixes this. Old mod maintained by @snofielf#0621.",
+    "category": "rebalance",
+    "authors": [ "Peeved Penguin (Original Author)", "Bl4nk (Fixer)", "Snofielf (Fixer)" ]
+  }
+]
